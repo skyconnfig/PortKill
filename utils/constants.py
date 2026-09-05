@@ -1,0 +1,4 @@
+APP_NAME = "PortKill"
+MAX_HISTORY = 5
+PROTECTED_PROCESS_HINT = "关键系统进程已保护"
+
